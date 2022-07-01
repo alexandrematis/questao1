@@ -1,0 +1,11 @@
+{
+  "name": "questao1",
+  "version": "1.0.0",
+  "description": "Operações Lógicas Bit a Bit",
+  "main": "bitwiseOperators.js",
+  "scripts": {
+    "start": "node bitwiseOperators.js"
+  },
+  "author": "Alexandre Matis",
+  "license": "MIT"
+}
